@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "the_pros_game:items/obsidianaxe"
+  }
+}
